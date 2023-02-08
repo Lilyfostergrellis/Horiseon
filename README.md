@@ -38,6 +38,8 @@ SO THAT our own site is optimized for search engines
 
 ## Links
 
+The following image displays the working landing page: 
+
 Deployed project: [Horiseon-Website] (https://lilyfostergrellis.github.io/horiseon/)
 
 ## License 
