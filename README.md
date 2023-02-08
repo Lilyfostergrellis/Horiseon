@@ -38,7 +38,7 @@ SO THAT our own site is optimized for search engines
 
 ## Links
 
-The following image displays the working landing page: 
+The following image displays the working landing page: [images] (images/1.png)
 
 Deployed project: [Horiseon-Website] (https://lilyfostergrellis.github.io/horiseon/)
 
