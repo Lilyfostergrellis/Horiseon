@@ -36,10 +36,6 @@ SO THAT our own site is optimized for search engines
 
   https://www.w3schools.com/tags/att_img_alt.asp
 
-## Links
-
-The following image displays the working landing page: [images] (images/1.png)
-
 Deployed project: [Horiseon-Website] (https://lilyfostergrellis.github.io/horiseon/)
 
 ## License 
