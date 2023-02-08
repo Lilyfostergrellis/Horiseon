@@ -1,3 +1,4 @@
+/**** UNIVERSAL SELECTOR *****/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,6 +9,8 @@ body {
     background-color: #d9dcd6;
 }
 
+
+/**** HEADER ****/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +27,8 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+
+/**** NAVIGATION BAR ****/
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -49,6 +54,8 @@ a {
 p {
     font-size: 16px;
 }
+
+/**** HERO IMG SECTION ****/
 
 .hero {
     height: 800px;
@@ -187,6 +194,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/**** FOOTER ****/
 
 footer {
     padding: 30px;
